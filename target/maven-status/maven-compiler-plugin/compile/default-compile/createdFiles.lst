@@ -1,0 +1,13 @@
+dao\DaoCarrello.class
+demain\RegistroFatturazioni.class
+demain\Carrello.class
+demain\Magazzino.class
+DBManager.class
+dao\DaoStoricoDelleTransazioni.class
+dao\DaoVenditore.class
+demain\Cliente.class
+dao\DaoRegistroFatturazioni.class
+demain\Venditore.class
+dao\DaoCliente.class
+dao\DaoMagazzino.class
+demain\StoricoDelleTransazioni.class
